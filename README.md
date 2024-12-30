@@ -5,21 +5,31 @@ A simple and interactive web-based application to generate QR codes for URLs, te
 **Features**
 
 ✏️ Custom Input: Enter URLs, text, or other data to generate a unique QR code.
+
 🖼️ QR Code Display: View the generated QR code instantly on the page.
+
 💾 Download Option: Save the QR code image for offline use or sharing.
+
 🌟 Responsive Design: Works seamlessly on both desktop and mobile devices.
+
 
 **Technologies Used**
 
 HTML5: For structuring the webpage.
+
 CSS3: For styling and layout design.
+
 JavaScript: For dynamically generating QR codes (e.g., using a library like qrcode.js).
 
 
 
 **Future Enhancements**
 Add customization options for QR codes (e.g., color, size, logo integration).
+
 Support bulk QR code generation.
+
 Integrate with APIs to generate dynamic QR codes.
 
 #Link
+
+https://soumyasajjan1.github.io/QR_code_Generator/
